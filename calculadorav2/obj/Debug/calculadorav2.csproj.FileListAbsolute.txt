@@ -1,0 +1,11 @@
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\bin\Debug\calculadorav2.exe.config
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\bin\Debug\calculadorav2.exe
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\bin\Debug\calculadorav2.pdb
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.csprojAssemblyReference.cache
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.Form1.resources
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.Properties.Resources.resources
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.csproj.GenerateResource.cache
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.exe
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.pdb
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.FormInversoProporcional.resources
+C:\Users\Fernando Cendrethe\source\repos\calculadorav2\calculadorav2\obj\Debug\calculadorav2.FormProporcional.resources
